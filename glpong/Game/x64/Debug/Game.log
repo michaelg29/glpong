@@ -1,11 +1,12 @@
 ﻿  main.cpp
-C:\src\glpong\glpong\Game\main.cpp(222,62): warning C4312: 'type cast': conversion from 'GLint' to 'void *' of greater size
-C:\src\glpong\glpong\Game\main.cpp(302,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\src\glpong\glpong\Game\main.cpp(302,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\src\glpong\glpong\Game\main.cpp(315,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\src\glpong\glpong\Game\main.cpp(320,49): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
-C:\src\glpong\glpong\Game\main.cpp(327,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\src\glpong\glpong\Game\main.cpp(332,49): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
-C:\src\glpong\glpong\Game\main.cpp(388,62): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
-C:\src\glpong\glpong\Game\main.cpp(388,49): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\src\glpong\glpong\Game\main.cpp(239,62): warning C4312: 'type cast': conversion from 'GLint' to 'void *' of greater size
+C:\src\glpong\glpong\Game\main.cpp(319,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\src\glpong\glpong\Game\main.cpp(319,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\src\glpong\glpong\Game\main.cpp(423,62): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\src\glpong\glpong\Game\main.cpp(423,49): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\src\glpong\glpong\Game\main.cpp(631,43): warning C4305: '*=': truncation from 'double' to 'float'
+C:\src\glpong\glpong\Game\main.cpp(641,55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\src\glpong\glpong\Game\main.cpp(642,55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\src\glpong\glpong\Game\main.cpp(645,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\src\glpong\glpong\Game\main.cpp(646,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
   Game.vcxproj -> C:\src\glpong\glpong\x64\Debug\Game.exe
