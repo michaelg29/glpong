@@ -13,7 +13,7 @@ These instructions are configured for Visual Studio but should be similar to oth
 
 ### Initial
 1. Create project in IDE (These directions are for Visual Studio 2019)
-2. Create directory named 'Linking' in *$(SolutionDir)
+2. Create directory named 'Linking' in *$(SolutionDir)*
 3. Set Project Properties
     * Linker -> Input
         * Additional Dependencies
